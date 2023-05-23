@@ -1,1 +1,2 @@
 This is the first test file to practice git
+This is the second sentence in the test file
